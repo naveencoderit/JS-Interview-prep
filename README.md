@@ -2,6 +2,11 @@
 
 A simple project to help you prepare for JavaScript interviews. This project includes basic HTML, CSS, and JavaScript files to get you started.
 
+## Questions
+
+### What is JS?
+JavaScript (JS) is a versatile, high-level programming language primarily used for creating interactive effects within web browsers. It enables dynamic content, control of multimedia, animation, and much more on web pages.
+
 ## Getting Started
 
 1. Clone the repository:
