@@ -6,10 +6,10 @@ body {
     color: #333;
 }
 
-.section {
+.question {
     background-color: #fff;
-    padding: 20px;
-    margin: 20px;
+    padding: 20px 40px;
+    margin: 20px 10rem;
     border-radius: 5px;
 }
 
